@@ -1,4 +1,4 @@
-# 💳 Credit Card Fraud Detection using PySpark
+# 💳 Credit Card Fraud Detection
 
 This repository presents a machine learning pipeline built with **PySpark** to detect fraudulent credit card transactions. The project uses scalable data processing and classification techniques to identify potential fraud in transactional data.
 
